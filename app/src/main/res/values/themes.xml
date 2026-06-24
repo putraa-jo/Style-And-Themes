@@ -3,11 +3,11 @@
     <style name="Base.Theme.StyleAndThemes" parent="Theme.Material3.DayNight">
         <!-- Customize your light theme here. -->
 
-        <!--<item name="colorPrimary">#009688</item>-->
+<!--        <item name="colorPrimary">#009688</item>-->
 
-        <!--<item name="colorPrimary">#FF476810</item>-->
-        <!--<item name="colorOnPrimary">#FFFFFFFF</item>-->
-        <!--<item name="colorPrimaryContainer">#FFC7F089</item>-->
+        <item name="colorPrimary">#FF476810</item>
+        <item name="colorOnPrimary">#FFFFFFFF</item>
+        <item name="colorPrimaryContainer">#FFC7F089</item>
     </style>
 
     <style name="Theme.StyleAndThemes" parent="Base.Theme.StyleAndThemes" />
